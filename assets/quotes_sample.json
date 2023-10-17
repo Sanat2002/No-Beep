@@ -1,0 +1,1630 @@
+{
+    "data": [
+        {
+            "day": 0,
+            "author": "~ unknown",
+            "quote": "The only way out, is through.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown1.png?alt=media&token=26364f71-d524-4140-8509-3b358e44481a"
+        },
+        {
+            "day": 0,
+            "author": "L (Death Note)",
+            "quote": "Risking your life and doing something that could easily rob you of your life are exact opposites.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fl1.png?alt=media&token=8f888337-cb98-4bed-83cf-31ab905f1824"
+        },
+        {
+            "day": 0,
+            "author": "Lao Tzu",
+            "quote": "To see things in the seed, that is genius.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714990/image_1_lifok1.png"
+        },
+        {
+            "day": 0,
+            "author": "Naruto Uzumaki",
+            "quote": "Somebody told me I\u2019m a failure, I\u2019ll prove them wrong.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_3_1.01.24_AM_mq8zof.png"
+        },
+        {
+            "day": 0,
+            "author": "~ unknown",
+            "quote": "An addict who overcomes addiction is capable of accomplishing anything.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown3.png?alt=media&token=26429d0e-a64c-4128-9f9b-0d794ca724bf"
+        },
+        {
+            "day": 0,
+            "author": "Chanakya",
+            "quote": "Excessive attachment to sense pleasures leads to bondage, and detachment from sense pleasures leads to liberation. Therefore it is the mind alone that is responsible for bondage or liberation.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530318/image_2_v6d3pm.png"
+        },
+        {
+            "day": 0,
+            "author": "Tyler Durden",
+            "quote": "The things you own, end up owning you.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_4_d0ioic.png"
+        },
+        {
+            "day": 0,
+            "author": "Roronoa Zoro (One Piece)",
+            "quote": "You need to accept the fact that you\u2019re not the best and have all the will to strive to be better than anyone you face.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 0,
+            "author": "Diogenes",
+            "quote": "The foundation of every state is the education of its youth.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714337/image_1_t9eobo.png"
+        },
+        {
+            "day": 1,
+            "author": "Naruto Uzumaki",
+            "quote": "If you don\u2019t like your destiny, don\u2019t accept it.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_2_1.01.24_AM_aqamp2.png"
+        },
+        {
+            "day": 1,
+            "author": "~ unknown",
+            "quote": "If I quit now, I will soon be back to where I started. And when I started, I was desperately wishing to be where I am now.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown4.png?alt=media&token=d8f176bb-fc77-4064-80ff-bf4df98657c4"
+        },
+        {
+            "day": 1,
+            "author": "Light Yagami",
+            "quote": "You can\u2019t ever win if you\u2019re always on the defensive. To win, you have to attack!",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675533175/light3_1_bm2k7t.jpg"
+        },
+        {
+            "day": 1,
+            "author": "Marcus Aurelius",
+            "quote": "The more we value things outside our control, the less control we have.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_2_doybbv.png"
+        },
+        {
+            "day": 1,
+            "author": "~ unknown",
+            "quote": "Use your head instead of what you have between your legs. Self-control is what separates a man from a boy.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown3.png?alt=media&token=26429d0e-a64c-4128-9f9b-0d794ca724bf"
+        },
+        {
+            "day": 1,
+            "author": "Chanakya",
+            "quote": "As soon as the fear approaches near, attack and destroy it.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_es9sjn.png"
+        },
+        {
+            "day": 1,
+            "author": "Saitama (One Punch Man)",
+            "quote": "If you really want to be strong\u2026 Stop caring about what your surrounding thinks of you!",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(1).png?alt=media&token=9baf5209-6b95-4dfd-8124-2676632a8bcc"
+        },
+        {
+            "day": 1,
+            "author": "Mae West",
+            "quote": "You only live once, but if you do it right, once is enough",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 1,
+            "author": "Marcus Aurelius",
+            "quote": "Have I been made for this, to lie under the blankets and keep myself warm?",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_2_doybbv.png"
+        },
+        {
+            "day": 2,
+            "author": "~ unknown",
+            "quote": "If you ever find yourself in a hole, the first thing you do is stop digging.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown2.jpeg?alt=media&token=ca04e73a-b532-4f11-b71c-11ad34761f4c"
+        },
+        {
+            "day": 2,
+            "author": "Michael Altshuler",
+            "quote": "The bad news is time flies. The good news is you\u2019re the pilot.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown4.png?alt=media&token=d8f176bb-fc77-4064-80ff-bf4df98657c4"
+        },
+        {
+            "day": 2,
+            "author": "Erwin Smith (Attack on Titan)",
+            "quote": "If you begin to regret, you\u2019ll dull your future decisions and let others make your choices for you. All that\u2019s left for you then is to die. Nobody can foretell the outcome. Each decision you make holds meaning only by affecting your next decision.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Faoterwin.png?alt=media&token=00b28b61-d572-4f44-8cbd-e332c307c5aa"
+        },
+        {
+            "day": 2,
+            "author": "L (Death Note)",
+            "quote": "Learn to treasure your life because unfortunately, it can be taken away from you anytime.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fl.png?alt=media&token=d8d391e4-5592-4712-bee1-ea00df751769"
+        },
+        {
+            "day": 2,
+            "author": "Abraham Lincoln",
+            "quote": "In the end, it's not the years in your life that count. It's the life in your years",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Flincoln.png?alt=media&token=fa13dfcc-1c15-44f8-95d9-88ac697808aa"
+        },
+        {
+            "day": 2,
+            "author": "Chanakya",
+            "quote": "There is no austerity equal to a balanced mind, and there is no happiness equal to contentment; there is no disease like covetousness, and no virtue like mercy.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_3_sg5xie.png"
+        },
+        {
+            "day": 2,
+            "author": "Queen Latifah",
+            "quote": "Believe in yourself. Stay in your own lane. There\u2019s only one you.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown1.png?alt=media&token=26364f71-d524-4140-8509-3b358e44481a"
+        },
+        {
+            "day": 2,
+            "author": "James Cameron",
+            "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 2,
+            "author": "Naruto Uzumaki",
+            "quote": "It\u2019s not the face that makes someone a monster, it\u2019s the choices they make with their lives.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_1.01.24_AM_c7aprq.png"
+        },
+        {
+            "day": 3,
+            "author": "Tyler Durden",
+            "quote": "We buy things we don\u2019t need, to impress people we don\u2019t like.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_4_d0ioic.png"
+        },
+        {
+            "day": 3,
+            "author": "D.C - Superman",
+            "quote": "There is a superhero in all of us, we just need the courage to put on the cape.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsuperman2.png?alt=media&token=0af1ff83-c634-407c-b967-5ab091633c15"
+        },
+        {
+            "day": 3,
+            "author": "Confucius",
+            "quote": "It does not matter how slowly you go as long as you do not stop.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown1.png?alt=media&token=26364f71-d524-4140-8509-3b358e44481a"
+        },
+        {
+            "day": 3,
+            "author": "L (Death Note)",
+            "quote": "Not every genius is understood.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fl.png?alt=media&token=d8d391e4-5592-4712-bee1-ea00df751769"
+        },
+        {
+            "day": 3,
+            "author": "Seneca",
+            "quote": "Hang on to your youthful enthusiasms, you will be able to use them better when you are older.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca(2).png?alt=media&token=1197b0a8-56de-4041-95b0-85dbe59999a6"
+        },
+        {
+            "day": 3,
+            "author": "Musonius Rufus",
+            "quote": "We begin to lose our hesitation to do immoral things when we lose our hesitation to speak of them.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/ryan_nzwkin.png"
+        },
+        {
+            "day": 3,
+            "author": "Walt Disney",
+            "quote": "The way to get started is to quit talking and begin doing.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797370/guts_qdtkjm.png"
+        },
+        {
+            "day": 3,
+            "author": "Lily Tomlin",
+            "quote": "The road to success is always under construction.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown4.png?alt=media&token=d8f176bb-fc77-4064-80ff-bf4df98657c4"
+        },
+        {
+            "day": 3,
+            "author": "Anne Frank",
+            "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 4,
+            "author": "~ unknown",
+            "quote": "It's when you start to get tired that the battle really begins.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown2.png?alt=media&token=7aba18b0-36e0-4871-a055-c87c92cf081c"
+        },
+        {
+            "day": 4,
+            "author": "Chanakya",
+            "quote": "Even if a snake is not poisonous, it should pretend to be venomous.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_1_pbsqjb.png"
+        },
+        {
+            "day": 4,
+            "author": "Diogenes",
+            "quote": "Dogs and philosophers do the greatest good and get the fewest rewards.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714337/image_1_t9eobo.png"
+        },
+        {
+            "day": 4,
+            "author": "Light Yagami",
+            "quote": "Sometimes, the questions are complicated \u2013 and the answers are simple.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675533175/image_qwnr9q.png"
+        },
+        {
+            "day": 4,
+            "author": "Steve Jobs",
+            "quote": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma \u2013 which is living with the results of other people's thinking.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/jobs_qeqfoz.png"
+        },
+        {
+            "day": 4,
+            "author": "Tyler Durden",
+            "quote": "Sticking feathers up your butt does not make you a chicken!",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_2_dqggy9.png"
+        },
+        {
+            "day": 4,
+            "author": "Aldous Huxley",
+            "quote": "Experience is not what happens to you; it is what you do with what happens to you.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown2.jpeg?alt=media&token=ca04e73a-b532-4f11-b71c-11ad34761f4c"
+        },
+        {
+            "day": 4,
+            "author": "Henry Ford",
+            "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 4,
+            "author": "Natsu Dragneel (Fairy Tail)",
+            "quote": "We don\u2019t have to know what tomorrow holds! That\u2019s why we can live for everything we\u2019re worth today!",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797370/guts_qdtkjm.png"
+        },
+        {
+            "day": 5,
+            "author": "Naruto Uzumaki",
+            "quote": "I\u2019m not gonna run away, I never go back on my word! That\u2019s my nindo: my ninja way.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_3_1.01.24_AM_mq8zof.png"
+        },
+        {
+            "day": 5,
+            "author": "Robert Louis Stevenson",
+            "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_1.01.24_AM_c7aprq.png"
+        },
+        {
+            "day": 5,
+            "author": "Itachi Uchiha (Naruto)",
+            "quote": "Growth occurs when one goes beyond one\u2019s limits. Realizing that is also part of training.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fitachi2.jpg?alt=media&token=74890a33-c0e5-48fc-aa28-c6f2faa0b5d7"
+        },
+        {
+            "day": 5,
+            "author": "~ unknown",
+            "quote": "Do it for the people who want to see you fail.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown4.png?alt=media&token=d8f176bb-fc77-4064-80ff-bf4df98657c4"
+        },
+        {
+            "day": 5,
+            "author": "Chanakya",
+            "quote": "The fragrance of flowers spreads only in the direction of the wind. But the goodness of a person spreads in all directions.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530318/image_2_v6d3pm.png"
+        },
+        {
+            "day": 5,
+            "author": "Tyler Durden",
+            "quote": "May I never be complete, May I never be content, May I never be perfect.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_3_cdrm2o.png"
+        },
+        {
+            "day": 5,
+            "author": "Will Rogers",
+            "quote": "Don\u2019t let yesterday take up too much of today.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 5,
+            "author": "Jiraiya (Naruto)",
+            "quote": "A person grows up when he\u2019s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fitachi2.jpg?alt=media&token=74890a33-c0e5-48fc-aa28-c6f2faa0b5d7"
+        },
+        {
+            "day": 5,
+            "author": "Itachi Uchiha (Naruto)",
+            "quote": "Even the strongest of opponents always has a weakness.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fitachi2.png?alt=media&token=0e43f521-3af5-471e-9c0e-64c6aa76d74b"
+        },
+        {
+            "day": 6,
+            "author": "Saitama (One Punch Man)",
+            "quote": "Who decides limits? And based on what? You said you worked hard? Well, maybe you need to work a little harder. Is that really the limit of your strength? Could the you of tomorrow beat you today? Instead of giving in, move forward.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(1).png?alt=media&token=9baf5209-6b95-4dfd-8124-2676632a8bcc"
+        },
+        {
+            "day": 6,
+            "author": "Marcus Aurelius",
+            "quote": "You have power over your mind \u2013 not outside events. Realize this, and you will find strength.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_1_d6blty.png"
+        },
+        {
+            "day": 6,
+            "author": "~ unknown",
+            "quote": "We gain the strength of the tempation we resist.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown3.png?alt=media&token=26429d0e-a64c-4128-9f9b-0d794ca724bf"
+        },
+        {
+            "day": 6,
+            "author": "Tyler Durden",
+            "quote": "I don't want to die without any scars.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_4_d0ioic.png"
+        },
+        {
+            "day": 6,
+            "author": "Thomas Jefferson",
+            "quote": "I find that the harder I work, the more luck I seem to have.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797996/orange_mount_wllznt.jpg"
+        },
+        {
+            "day": 6,
+            "author": "John D. Rockefeller",
+            "quote": "Don't be afraid to give up the good to go for the great.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/garou_kbu7cl.png"
+        },
+        {
+            "day": 6,
+            "author": "Will Peters",
+            "quote": "Energy and initiative count as much as talent and luck.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/time_td1iua.png"
+        },
+        {
+            "day": 6,
+            "author": "Eleanor Roosevelt",
+            "quote": "No one can make you feel inferior without your consent.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797372/wolf_ytnbc0.png"
+        },
+        {
+            "day": 6,
+            "author": "Robin Williams",
+            "quote": "No matter what people tell you, words and ideas can change the world.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 7,
+            "author": "Tyler Durden",
+            "quote": "You wanna make an omelet, you gotta break some eggs.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_2_dqggy9.png"
+        },
+        {
+            "day": 7,
+            "author": "Mother Teresa",
+            "quote": "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 7,
+            "author": "Seneca",
+            "quote": "While we are postponing, life speeds by.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca(2).png?alt=media&token=1197b0a8-56de-4041-95b0-85dbe59999a6"
+        },
+        {
+            "day": 7,
+            "author": "Chanakya",
+            "quote": "We should not feel pride in our charity, austerity, valor, scriptural knowledge, modesty, and morality for the world is full of the rarest gems.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_1_pbsqjb.png"
+        },
+        {
+            "day": 7,
+            "author": "L (Death Note)",
+            "quote": "Lying monsters are a real nuisance. They are much more cunning than other monsters. They pose as humans even though they have no understanding of the human heart. They eat even though they\u2019ve never experienced hunger. They study even though they have no interest in academics. They seek friendship even though they do not know how to love.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fl1.png?alt=media&token=8f888337-cb98-4bed-83cf-31ab905f1824"
+        },
+        {
+            "day": 7,
+            "author": "Herman Melville",
+            "quote": "It is better to fail in originality than to succeed in imitation.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/jobs_qeqfoz.png"
+        },
+        {
+            "day": 7,
+            "author": "Edward Elric (Fullmetal Alchemist: Brotherhood)",
+            "quote": "A lesson without pain is meaningless. That\u2019s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(1).png?alt=media&token=95df1e06-d97c-4ab2-8ed0-1d9bbfa36b1a"
+        },
+        {
+            "day": 7,
+            "author": "~ unknown",
+            "quote": "Fall down, get up, fall down, get up, fall down, get up, fall down, get up, fall down, get up, fall down, get up, fall down, get up, stay up, help others.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown1.png?alt=media&token=26364f71-d524-4140-8509-3b358e44481a"
+        },
+        {
+            "day": 7,
+            "author": "Richard Whately",
+            "quote": "Lose an hour in the morning, and you will spend all day looking for it.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/time_td1iua.png"
+        },
+        {
+            "day": 8,
+            "author": "Tyler Durden",
+            "quote": "The lower you fall, the higher you\u2019ll fly.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_3_cdrm2o.png"
+        },
+        {
+            "day": 8,
+            "author": "~ unknown",
+            "quote": "If you are tired of starting over, stop giving up.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown3.png?alt=media&token=26429d0e-a64c-4128-9f9b-0d794ca724bf"
+        },
+        {
+            "day": 8,
+            "author": "Chanakya",
+            "quote": "A man is great by deeds, not by birth.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_3_sg5xie.png"
+        },
+        {
+            "day": 8,
+            "author": "Light Yagami",
+            "quote": "Under normal circumstances, humans should have continued to evolve as the greatest creatures upon this earth, but we were actually regressing. A rotten world. Politics, law, education\u2026 Was there anybody around who could correct this world? But someone had to do it.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675533175/light3_1_bm2k7t.jpg"
+        },
+        {
+            "day": 8,
+            "author": "Naruto Uzumaki",
+            "quote": "Once you question your own belief, it\u2019s over.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/naruto3_nwfzrd.jpg"
+        },
+        {
+            "day": 8,
+            "author": "Winston S. Churchill",
+            "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/laura-vinck-Hyu76loQLdk-unsplash_d96onn.jpg"
+        },
+        {
+            "day": 8,
+            "author": "Oscar Wilde",
+            "quote": "Be yourself; everyone else is already taken.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/garou_kbu7cl.png"
+        },
+        {
+            "day": 8,
+            "author": "Alibaba Saluja (Universal Warriors)",
+            "quote": "If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don\u2019t need them and their selfish ideas.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/lone_y7epeo.png"
+        },
+        {
+            "day": 8,
+            "author": "Eleanor Roosevelt",
+            "quote": "The future belongs to those who believe in the beauty of their dreams",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/dwelling_fj0iit.png"
+        },
+        {
+            "day": 9,
+            "author": "Henry Ford",
+            "quote": "The only real mistake is the one from which we learn nothing.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/ryan_nzwkin.png"
+        },
+        {
+            "day": 9,
+            "author": "Colin Powell",
+            "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797996/orange_mount_wllznt.jpg"
+        },
+        {
+            "day": 9,
+            "author": "Marcus Aurelius",
+            "quote": "The only wealth which you will keep forever is the wealth you have given away.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_1_d6blty.png"
+        },
+        {
+            "day": 9,
+            "author": "Monkey D. Luffy (One Piece)",
+            "quote": "If you don\u2019t take risks, you can\u2019t create a future!",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 9,
+            "author": "Tyler Durden",
+            "quote": "Advertising has us chasing cars and clothes, working jobs we hate so we can buy that we don\u2019t need. We\u2019re the middle children of history, man. No purpose or place. We have no great war. No great depression. Our great war\u2019s a spiritual war, our great depression is our lives.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_1_fehuyu.png"
+        },
+        {
+            "day": 9,
+            "author": "Winston Churchill",
+            "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/garou_kbu7cl.png"
+        },
+        {
+            "day": 9,
+            "author": "Tsunade (Naruto)",
+            "quote": "People become stronger because they have memories they can\u2019t forget.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797370/guts_qdtkjm.png"
+        },
+        {
+            "day": 9,
+            "author": "Socrates",
+            "quote": "An unexamined life is not worth living.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797372/wolf_ytnbc0.png"
+        },
+        {
+            "day": 9,
+            "author": "Naruto Uzumaki",
+            "quote": "When people are protecting something truly special to them, they truly can become as strong as they can be.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_2_1.01.24_AM_aqamp2.png"
+        },
+        {
+            "day": 10,
+            "author": "~ unknown",
+            "quote": "The temptation to quit will be greatest just before you are about to succeed.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown4.png?alt=media&token=d8f176bb-fc77-4064-80ff-bf4df98657c4"
+        },
+        {
+            "day": 10,
+            "author": "Dr. Seuss",
+            "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/mountains_ndmjzv.png"
+        },
+        {
+            "day": 10,
+            "author": "Swami Vivekananda",
+            "quote": "In a day when you don\u2019t come across any problems, you can be sure that you are travelling on the wrong path.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsvv2.png?alt=media&token=cd722019-68d9-47d6-87e0-8338d8a9e165"
+        },
+        {
+            "day": 10,
+            "author": "D.C - Superman",
+            "quote": "No matter where you go in life there\u2019s always going to be the one person that wants to bring you down, so stay strong and face your problems instead of running away.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsuperman3.png?alt=media&token=520369f8-20c4-4805-880c-4b23d460c818"
+        },
+        {
+            "day": 10,
+            "author": "Chanakya",
+            "quote": "We should not fret for what is past, nor should we be anxious about the future. Men of discernment deal only with the present moment.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_1_pbsqjb.png"
+        },
+        {
+            "day": 10,
+            "author": "John Lennon",
+            "quote": "Life is what happens when you're busy making other plans.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/time_td1iua.png"
+        },
+        {
+            "day": 10,
+            "author": "Naruto Uzumaki",
+            "quote": "The many lives lost during long years of conflict\u2026 because of those selfless sacrifices, we are able to bathe in peace and prosperity now. To ingrain this history within the new generation will be a vital cog in helping to maintain the peace",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_1_1.01.24_AM_oa2vvw.png"
+        },
+        {
+            "day": 10,
+            "author": "Thomas A. Edison",
+            "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/lone_y7epeo.png"
+        },
+        {
+            "day": 10,
+            "author": "Rabindranath Tagore",
+            "quote": "The most important lesson that man can learn from life, is not that there is pain in this world, but that it is possible for him to transmute it into joy.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_1_qyd3lu.png"
+        },
+        {
+            "day": 11,
+            "author": "Guts (Berserk)",
+            "quote": "You\u2019re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn\u2019t it? I\u2019m sure you\u2019ll overcome this. You\u2019ll walk again\u2026 soon.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797370/guts_qdtkjm.png"
+        },
+        {
+            "day": 11,
+            "author": "Chanakya",
+            "quote": "One whose knowledge is confined to books and whose wealth is in the possession of others, can use neither his knowledge nor wealth when the need for them arises.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_1_pbsqjb.png"
+        },
+        {
+            "day": 11,
+            "author": "Aristotle",
+            "quote": "It is during our darkest moments that we must focus to see the light.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 11,
+            "author": "Itachi Uchiha (Naruto)",
+            "quote": "Those who forgive themselves, and are able to accept their true nature\u2026 They are the strong ones!",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fitachi2.png?alt=media&token=0e43f521-3af5-471e-9c0e-64c6aa76d74b"
+        },
+        {
+            "day": 11,
+            "author": "L (Death Note)",
+            "quote": "Being alone is better than being with the wrong person.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fl.png?alt=media&token=d8d391e4-5592-4712-bee1-ea00df751769"
+        },
+        {
+            "day": 11,
+            "author": "Nelson Mandela",
+            "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 11,
+            "author": "Gloria Steinem",
+            "quote": "Dreaming, after all, is a form of planning.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/ryan_nzwkin.png"
+        },
+        {
+            "day": 11,
+            "author": "Dr. Seuss",
+            "quote": "Sometimes you will never know the value of a moment, until it becomes a memory.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/time_td1iua.png"
+        },
+        {
+            "day": 11,
+            "author": "Lao Tzu",
+            "quote": "Mastering others is strength. Mastering yourself is true power.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714990/image_1_lifok1.png"
+        },
+        {
+            "day": 12,
+            "author": "Naruto Uzumaki",
+            "quote": "If he rips my arms off, I\u2019ll kick him to death. If he rips my legs off, I\u2019ll bite him to death! If he rips my head off, I\u2019ll stare him to death! And if he gouges out my eyes, I\u2019ll curse him from beyond the grave.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_3_1.01.24_AM_mq8zof.png"
+        },
+        {
+            "day": 12,
+            "author": "Norman Vaughan",
+            "quote": "Dream big and dare to fail.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/jobs_qeqfoz.png"
+        },
+        {
+            "day": 12,
+            "author": "Zig Ziglar",
+            "quote": "Don't be distracted by criticism. Remember \u2014 the only taste of success some people get is to take a bite out of you.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797372/wolf_ytnbc0.png"
+        },
+        {
+            "day": 12,
+            "author": "D.C - Superman",
+            "quote": "Dreams save us. Dreams lift us up and transform us. And on my soul I swear until my dream of a world where dignity, honor, and justice becomes the reality we all share, I\u2019ll never stop fighting. Ever!",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsuperman2.png?alt=media&token=0af1ff83-c634-407c-b967-5ab091633c15"
+        },
+        {
+            "day": 12,
+            "author": "John F. Kennedy",
+            "quote": "Those who dare to fail miserably can achieve greatly.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797370/guts_qdtkjm.png"
+        },
+        {
+            "day": 12,
+            "author": "Robert Frost",
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/ryan_nzwkin.png"
+        },
+        {
+            "day": 12,
+            "author": "Maya Angelou",
+            "quote": "We need much less than we think we need.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/time_td1iua.png"
+        },
+        {
+            "day": 12,
+            "author": "Muhammad Ali",
+            "quote": "Don\u2019t quit. Suffer now and live the rest of your life as a champion.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/garou_kbu7cl.png"
+        },
+        {
+            "day": 12,
+            "author": "Charles Swindoll",
+            "quote": "Life is 10% what happens to me and 90% of how I react to it.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/dwelling_fj0iit.png"
+        },
+        {
+            "day": 13,
+            "author": "Winston Churchill",
+            "quote": "If you\u2019re going through hell, keep going.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/garou_kbu7cl.png"
+        },
+        {
+            "day": 13,
+            "author": "Itachi Uchiha (Naruto)",
+            "quote": "Now I feel that maybe knowing who I actually am is the key to reach perfection. Because that means knowing what I can and cannot do.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fitachi2.jpg?alt=media&token=74890a33-c0e5-48fc-aa28-c6f2faa0b5d7"
+        },
+        {
+            "day": 13,
+            "author": "Naruto Uzumaki",
+            "quote": "Listen to yourself whining and complaining like some sorry little victim. You can whimper all day long for all I care, you\u2019re nothing but a coward.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_2_1.01.24_AM_aqamp2.png"
+        },
+        {
+            "day": 13,
+            "author": "Zeno",
+            "quote": "No loss should be more regrettable to us than losing our time, for it\u2019s irretrievable.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fzeno.png?alt=media&token=83eb038b-575c-441a-87de-1e0ab1278736"
+        },
+        {
+            "day": 13,
+            "author": "Itachi Uchiha (Naruto)",
+            "quote": "The ones who aren\u2019t able to acknowledge their own selves are bound to fail",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fitachi2.png?alt=media&token=0e43f521-3af5-471e-9c0e-64c6aa76d74b"
+        },
+        {
+            "day": 13,
+            "author": "Master Jiraiya (Naruto)",
+            "quote": "You\u2019re wrong, that\u2019s not what makes a shinobi. You never did get it, a real ninja is one who endures no matter what gets thrown at him\u2026 Let me explain something to you, there is only one thing that matters if you are a shinobi, and it isn\u2019t the number of Jutsu you possess. All you do need is the guts to never give up.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/lone_y7epeo.png"
+        },
+        {
+            "day": 13,
+            "author": "Light Yagami",
+            "quote": "\"I can\u2019t develop feelings\". That\u2019s how most idiots screw up.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675533175/image_qwnr9q.png"
+        },
+        {
+            "day": 13,
+            "author": "Amelia Earhart",
+            "quote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 13,
+            "author": "Seneca",
+            "quote": "Wealth is the slave of a wise man and the master of a fool.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca.png?alt=media&token=2eefb44e-a3ca-40d2-9a4c-404cefb14887"
+        },
+        {
+            "day": 14,
+            "author": "~ unknown",
+            "quote": "A mistake repeated more than once is a decision.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown4.png?alt=media&token=d8f176bb-fc77-4064-80ff-bf4df98657c4"
+        },
+        {
+            "day": 14,
+            "author": "Barack Obama",
+            "quote": "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/garou_kbu7cl.png"
+        },
+        {
+            "day": 14,
+            "author": "Sheryl Sandberg",
+            "quote": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 14,
+            "author": "Renton Thurston (Eureka Seven)",
+            "quote": "Don\u2019t beg for things. Do it yourself, or else you won\u2019t get anything.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797996/orange_mount_wllznt.jpg"
+        },
+        {
+            "day": 14,
+            "author": "Chanakya",
+            "quote": "Purity of speech, of the mind, of the senses, and of a compassionate heart are needed by one who desires to rise to the divine platform.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_3_sg5xie.png"
+        },
+        {
+            "day": 14,
+            "author": "Colin R. Davis",
+            "quote": "The road to success and the road to failure are almost exactly the same.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/lone_y7epeo.png"
+        },
+        {
+            "day": 14,
+            "author": "Maya Angelou",
+            "quote": "You will face many defeats in life, but never let yourself be defeated.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797370/guts_qdtkjm.png"
+        },
+        {
+            "day": 14,
+            "author": "Oscar Wilde",
+            "quote": "To live is the rarest thing in the world. Most people just exist.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/mountains_ndmjzv.png"
+        },
+        {
+            "day": 14,
+            "author": "Chanakya",
+            "quote": "Once you start working on something, don\u2019t be afraid of failure and don\u2019t abandon it. People who work sincerely are the happiest.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530318/image_2_v6d3pm.png"
+        },
+        {
+            "day": 15,
+            "author": "Tyler Durden",
+            "quote": "Without pain, without sacrifice, we would have nothing. Like the first monkey shot into space.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_4_d0ioic.png"
+        },
+        {
+            "day": 15,
+            "author": "Itachi Uchiha (Naruto)",
+            "quote": "People\u2019s lives don\u2019t end when they die, it ends when they lose faith.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fitachi2.jpg?alt=media&token=74890a33-c0e5-48fc-aa28-c6f2faa0b5d7"
+        },
+        {
+            "day": 15,
+            "author": "Rabindranath Tagore",
+            "quote": "Death is not extinguishing the light; it is only putting out the lamp because the dawn has come.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_dvbpzi.png"
+        },
+        {
+            "day": 15,
+            "author": "Chanakya",
+            "quote": "Drop the idea that attachment and love are one thing. They are enemies. It is attachment that destroys the love.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_es9sjn.png"
+        },
+        {
+            "day": 15,
+            "author": "~ unknown",
+            "quote": "Sometimes the chains that bind us are not physical, but mental.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown3.png?alt=media&token=26429d0e-a64c-4128-9f9b-0d794ca724bf"
+        },
+        {
+            "day": 15,
+            "author": "Jet Black (Cowboy Bebop)",
+            "quote": "Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don\u2019t desire, but they\u2019re inevitable, we have to face them. It\u2019s what being human is all about.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675799006/cowboy_1_tlz1fv.jpg"
+        },
+        {
+            "day": 15,
+            "author": "Vince Lombardi",
+            "quote": "Winning isn't everything, but wanting to win is.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 15,
+            "author": "Seneca",
+            "quote": "While we wait for life, life passes.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca(2).png?alt=media&token=1197b0a8-56de-4041-95b0-85dbe59999a6"
+        },
+        {
+            "day": 15,
+            "author": "Naruto Uzumaki",
+            "quote": "Hard work is worthless for those that don\u2019t believe in themselves.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_1_1.01.24_AM_oa2vvw.png"
+        },
+        {
+            "day": 16,
+            "author": "Eleanor Roosevelt",
+            "quote": "If life were predictable it would cease to be life, and be without flavor.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675799006/cowboy_1_tlz1fv.jpg"
+        },
+        {
+            "day": 16,
+            "author": "Gildarts Clive (Fairy Tail)",
+            "quote": "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797372/wolf_ytnbc0.png"
+        },
+        {
+            "day": 16,
+            "author": "Mahatma Gandhi",
+            "quote": "You must be the change you wish to see in the world.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/jobs_qeqfoz.png"
+        },
+        {
+            "day": 16,
+            "author": "D.C - Superman",
+            "quote": "It's never as bad as it seems. You're stronger than you think you are. Trust me.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsuperman1.png?alt=media&token=486f3ece-5b98-4718-aaa4-f6738783d268"
+        },
+        {
+            "day": 16,
+            "author": "~ unknown",
+            "quote": "When there is no enemy within, the enemies outside can do you no harm.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown4.png?alt=media&token=d8f176bb-fc77-4064-80ff-bf4df98657c4"
+        },
+        {
+            "day": 16,
+            "author": "Franklin D. Roosevelt",
+            "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/lone_y7epeo.png"
+        },
+        {
+            "day": 16,
+            "author": "Oscar Wilde",
+            "quote": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 16,
+            "author": "Chanakya",
+            "quote": "Before you start some work, always ask yourself three questions \u2013 why am I doing this, what the results might be and will I be successful. Only when you think deeply and find satisfactory answers to these questions, go ahead.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_3_sg5xie.png"
+        },
+        {
+            "day": 16,
+            "author": "Naruto Uzumaki",
+            "quote": "If you don\u2019t like the hand that fate\u2019s dealt you with, fight for a new one.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_3_1.01.24_AM_mq8zof.png"
+        },
+        {
+            "day": 17,
+            "author": "L (Death Note)",
+            "quote": "Let\u2019s value our lives.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fl.png?alt=media&token=d8d391e4-5592-4712-bee1-ea00df751769"
+        },
+        {
+            "day": 17,
+            "author": "John Green",
+            "quote": "It hurt because it mattered.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797370/guts_qdtkjm.png"
+        },
+        {
+            "day": 17,
+            "author": "Milton Berle",
+            "quote": "If opportunity doesn\u2019t knock, build a door.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/lone_y7epeo.png"
+        },
+        {
+            "day": 17,
+            "author": "Saitama (One Punch Man)",
+            "quote": "I\u2019ll leave tomorrow\u2019s problems to tomorrow\u2019s me.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(1).png?alt=media&token=9baf5209-6b95-4dfd-8124-2676632a8bcc"
+        },
+        {
+            "day": 17,
+            "author": "Master Jiraiya (Naruto)",
+            "quote": "Getting dumped always makes a man stronger. But then again, men aren\u2019t meant to pursue happiness.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/ryan_nzwkin.png"
+        },
+        {
+            "day": 17,
+            "author": "Nagato (Naruto)",
+            "quote": "If you don\u2019t share someone\u2019s pain, you can never understand them.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/ryan_nzwkin.png"
+        },
+        {
+            "day": 17,
+            "author": "Robert H. Schiuller",
+            "quote": "Problems are not stop signs, they are guidelines.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/dwelling_fj0iit.png"
+        },
+        {
+            "day": 17,
+            "author": "Roger Babson",
+            "quote": "If things go wrong, don\u2019t go with them.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/time_td1iua.png"
+        },
+        {
+            "day": 17,
+            "author": "Marcus Aurelius",
+            "quote": "Conceal a flaw, and the world will imagine the worst.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613909/image_3_uqmm5e.png"
+        },
+        {
+            "day": 18,
+            "author": "D.C - Superman",
+            "quote": "The \u2018Amazing\u2019 can only be created by facing fear, risk, and failure during the process.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsuperman1.png?alt=media&token=486f3ece-5b98-4718-aaa4-f6738783d268"
+        },
+        {
+            "day": 18,
+            "author": "~ unknown",
+            "quote": "In the end the winner is still the last man standing.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown2.jpeg?alt=media&token=ca04e73a-b532-4f11-b71c-11ad34761f4c"
+        },
+        {
+            "day": 18,
+            "author": "Marcus Aurelius",
+            "quote": "The best revenge is not to be like your enemy.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_1_d6blty.png"
+        },
+        {
+            "day": 18,
+            "author": "Tyler Durden",
+            "quote": "How much can you possibly know about yourself if you\u2019ve never been in a fight?",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_1_fehuyu.png"
+        },
+        {
+            "day": 18,
+            "author": "Seneca",
+            "quote": "It's not because things are difficult that we dare not venture",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(1).png?alt=media&token=d3eb8fd9-6035-4d3c-8ff7-0581d9e9fb29"
+        },
+        {
+            "day": 18,
+            "author": "Juuzou Suzuya (Tokyo Ghoul)",
+            "quote": "Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797372/wolf_ytnbc0.png"
+        },
+        {
+            "day": 18,
+            "author": "D.C - Superman",
+            "quote": "So many of our dreams seem impossible, they seem improbable, and then, when we summon the will they soon become inevitable.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsuperman3.png?alt=media&token=520369f8-20c4-4805-880c-4b23d460c818"
+        },
+        {
+            "day": 18,
+            "author": "Seneca",
+            "quote": "Ignorance is the cause of fear.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(1).png?alt=media&token=d3eb8fd9-6035-4d3c-8ff7-0581d9e9fb29"
+        },
+        {
+            "day": 18,
+            "author": "Tony Robbins",
+            "quote": "The only impossible journey is the one you never begin.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/mountains_ndmjzv.png"
+        },
+        {
+            "day": 19,
+            "author": "~ unknown",
+            "quote": "You will be 1 in a million, literally.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown1.png?alt=media&token=26364f71-d524-4140-8509-3b358e44481a"
+        },
+        {
+            "day": 19,
+            "author": "Anais Nin",
+            "quote": "Life shrinks or expands in proportion to one\u2019s courage.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 19,
+            "author": "Epictetus",
+            "quote": "No man is free who is not master of himself.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(2).png?alt=media&token=ac3c02f2-2aef-45df-a2d6-9c07ce05afd8"
+        },
+        {
+            "day": 19,
+            "author": "Zeno",
+            "quote": "Man conquers the world by conquering himself.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fzeno2.png?alt=media&token=2910619f-2c7c-49d5-bd16-0cf119ed65a5"
+        },
+        {
+            "day": 19,
+            "author": "Itachi Uchiha (Naruto)",
+            "quote": "Knowledge and awareness are vague, and perhaps better-called illusions. Everyone lives within their own subjective interpretation.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fitachi2.jpg?alt=media&token=74890a33-c0e5-48fc-aa28-c6f2faa0b5d7"
+        },
+        {
+            "day": 19,
+            "author": "Chanakya",
+            "quote": "There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530319/image_es9sjn.png"
+        },
+        {
+            "day": 19,
+            "author": "Tyler Durden",
+            "quote": "Reject the basic assumptions of civilization, especially the importance of material possessions.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_3_cdrm2o.png"
+        },
+        {
+            "day": 19,
+            "author": "Marcus Aurelius",
+            "quote": "You can commit injustice by doing nothing.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613909/image_3_uqmm5e.png"
+        },
+        {
+            "day": 19,
+            "author": "Epictetus",
+            "quote": "We have two ears and one mouth so that we can listen twice as much as we speak.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(1).png?alt=media&token=4d2a0ce8-e52a-4b29-861d-1cd8622a4bcb"
+        },
+        {
+            "day": 20,
+            "author": "~ unknown",
+            "quote": "A smooth sea never made a skilled sailor.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown2.png?alt=media&token=7aba18b0-36e0-4871-a055-c87c92cf081c"
+        },
+        {
+            "day": 20,
+            "author": "Seneca",
+            "quote": "It is more civilized to make fun of life than to bewail it.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(3).png?alt=media&token=994b668e-36cc-45b6-be7d-20aaab069b96"
+        },
+        {
+            "day": 20,
+            "author": "Tyler Durden",
+            "quote": "People do it every day, they talk to themselves, they see themselves as they\u2019d like to be, they don\u2019t have the courage you have, to just run with it.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675532564/image_3_cdrm2o.png"
+        },
+        {
+            "day": 20,
+            "author": "Patanjali",
+            "quote": "When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bonds.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 20,
+            "author": "Swami Vivekananda",
+            "quote": "You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsvv2.png?alt=media&token=cd722019-68d9-47d6-87e0-8338d8a9e165"
+        },
+        {
+            "day": 20,
+            "author": "Epictetus",
+            "quote": "A ship should not ride on a single anchor, nor life on a single hope.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage.png?alt=media&token=d813c6c7-504f-4330-bf41-105cdb0da993"
+        },
+        {
+            "day": 20,
+            "author": "D. H. Lawrence",
+            "quote": "Life is ours to be spent, not to be saved.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/mountains_ndmjzv.png"
+        },
+        {
+            "day": 20,
+            "author": "Musonius Rufus",
+            "quote": "Humanity must seek what is NOT simple and obvious using the simple and obvious.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797996/orange_mount_wllznt.jpg"
+        },
+        {
+            "day": 20,
+            "author": "Jiddu Krishnamurti",
+            "quote": "It is necessary that one be a light to oneself in a world that is becoming utterly dark.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fjk4.png?alt=media&token=29b53073-872f-48d5-83ce-529bef497351"
+        },
+        {
+            "day": 21,
+            "author": "Roy Mustang (Fullmetal Alchemist)",
+            "quote": "The world\u2019s not perfect, but it\u2019s there for us trying the best it can. That\u2019s what makes it so damn beautiful.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 21,
+            "author": "Chanakya",
+            "quote": "The happiness and peace is attained by those who are satisfied by the nectar of spiritual tranquillity and by the greedy persons restlessly moving here and there.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675530318/image_2_v6d3pm.png"
+        },
+        {
+            "day": 21,
+            "author": "Epictetus",
+            "quote": "First learn the meaning of what you say, and then speak.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(1).png?alt=media&token=4d2a0ce8-e52a-4b29-861d-1cd8622a4bcb"
+        },
+        {
+            "day": 21,
+            "author": "Naruto Uzumaki",
+            "quote": "People who continue to put their lives on the line to defend their faith become heroes and continue to exist on in legend.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/naruto3_nwfzrd.jpg"
+        },
+        {
+            "day": 21,
+            "author": "Marcus Aurelius",
+            "quote": "How ridiculous and how strange to be surprised at anything which happens in life.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613909/image_3_uqmm5e.png"
+        },
+        {
+            "day": 21,
+            "author": "Lao Tzu",
+            "quote": "Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714990/image_1_lifok1.png"
+        },
+        {
+            "day": 21,
+            "author": "Seneca",
+            "quote": "Hurry up and live.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca(2).png?alt=media&token=1197b0a8-56de-4041-95b0-85dbe59999a6"
+        },
+        {
+            "day": 21,
+            "author": "Seneca",
+            "quote": "Life is very short and anxious for those who forget the past, neglect the present, and fear the future.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(1).png?alt=media&token=d3eb8fd9-6035-4d3c-8ff7-0581d9e9fb29"
+        },
+        {
+            "day": 21,
+            "author": "Diogenes",
+            "quote": "Poverty is a virtue which one can teach oneself.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714337/image_1_t9eobo.png"
+        },
+        {
+            "day": 22,
+            "author": "Marcus Aurelius",
+            "quote": "Life is neither good or evil, but only a place for good and evil.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_2_doybbv.png"
+        },
+        {
+            "day": 22,
+            "author": "~ unknown",
+            "quote": "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown2.png?alt=media&token=7aba18b0-36e0-4871-a055-c87c92cf081c"
+        },
+        {
+            "day": 22,
+            "author": "Jiddu Krishnamurti",
+            "quote": "You can only be afraid of what you think you know.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fjk1.png?alt=media&token=bdeee727-7f89-4f51-91e4-a49142068980"
+        },
+        {
+            "day": 22,
+            "author": "William James",
+            "quote": "Act as if what you do makes a difference. It does.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 22,
+            "author": "Seneca",
+            "quote": "For many men, the acquisition of wealth does not end their troubles, it only changes them.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca5.png?alt=media&token=dc6db453-9d38-4e60-a98a-1ae282c47737"
+        },
+        {
+            "day": 22,
+            "author": "Marcus Aurelius",
+            "quote": "The best answer to anger is silence.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_1_d6blty.png"
+        },
+        {
+            "day": 22,
+            "author": "Zeno",
+            "quote": "A bad feeling is a commotion of the mind repugnant to reason, and against nature.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fzeno2.png?alt=media&token=2910619f-2c7c-49d5-bd16-0cf119ed65a5"
+        },
+        {
+            "day": 22,
+            "author": "Plato",
+            "quote": "The beginning is the most important part of the work.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675799006/cowboy_1_tlz1fv.jpg"
+        },
+        {
+            "day": 22,
+            "author": "Salma Hayek",
+            "quote": "People often say that beauty is in the eye of the beholder, and I say that the most liberating thing about beauty is realizing you are the beholder.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/dwelling_fj0iit.png"
+        },
+        {
+            "day": 23,
+            "author": "Plato",
+            "quote": "Better a little which is well done, than a great done imperfectly.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797370/guts_qdtkjm.png"
+        },
+        {
+            "day": 23,
+            "author": "Herodotus",
+            "quote": "Great deeds are usually wrought at great risks.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 23,
+            "author": "Rabindranath Tagore",
+            "quote": "If you cry because the sun has gone out of your life, your tears will prevent you from seeing the stars.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_2_hwb4lk.png"
+        },
+        {
+            "day": 23,
+            "author": "Lao Tzu",
+            "quote": "Nature does not hurry, yet everything is accomplished.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714990/image_ch4d4c.png"
+        },
+        {
+            "day": 23,
+            "author": "Epictetus",
+            "quote": "No great thing is created suddenly.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage.png?alt=media&token=d813c6c7-504f-4330-bf41-105cdb0da993"
+        },
+        {
+            "day": 23,
+            "author": "Marcus Aurelius",
+            "quote": "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613909/image_3_uqmm5e.png"
+        },
+        {
+            "day": 23,
+            "author": "Seneca",
+            "quote": "We suffer more often in imagination than in reality.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca.png?alt=media&token=2eefb44e-a3ca-40d2-9a4c-404cefb14887"
+        },
+        {
+            "day": 23,
+            "author": "Swami Vivekananda",
+            "quote": "The greatest sacrifice is when you sacrifice your own happiness for the sake of someone else.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsvv2.png?alt=media&token=cd722019-68d9-47d6-87e0-8338d8a9e165"
+        },
+        {
+            "day": 23,
+            "author": "~ unknown",
+            "quote": "Progress demands sacrifice.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Funknown2.jpeg?alt=media&token=ca04e73a-b532-4f11-b71c-11ad34761f4c"
+        },
+        {
+            "day": 23,
+            "author": "Jiddu Krishnamurti",
+            "quote": "You see, love is, after all, a sense of total absence of the \u2018me\u2019.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fjk3.png?alt=media&token=9e247e76-5dc4-4a5d-93b7-f0dd9e1141a4"
+        },
+        {
+            "day": 24,
+            "author": "Naruto Uzumaki",
+            "quote": "Failing doesn\u2019t give you a reason to give up, as long as you believe.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_1.01.24_AM_c7aprq.png"
+        },
+        {
+            "day": 24,
+            "author": "Rabindranath Tagore",
+            "quote": "Let your life lightly dance on the edges of time like dew on the tip of a leaf.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_1_qyd3lu.png"
+        },
+        {
+            "day": 24,
+            "author": "Babe Ruth",
+            "quote": "Never let the fear of striking out keep you from playing the game.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/garou_kbu7cl.png"
+        },
+        {
+            "day": 24,
+            "author": "Epictetus",
+            "quote": "Know, first, who you are, and then adorn yourself accordingly.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(2).png?alt=media&token=ac3c02f2-2aef-45df-a2d6-9c07ce05afd8"
+        },
+        {
+            "day": 24,
+            "author": "Mark Twain",
+            "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 24,
+            "author": "Seneca",
+            "quote": "It is a rough road that leads to the heights of greatness.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca5.png?alt=media&token=dc6db453-9d38-4e60-a98a-1ae282c47737"
+        },
+        {
+            "day": 24,
+            "author": "Herodotus",
+            "quote": "Haste in every business brings failures.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 24,
+            "author": "Lao Tzu",
+            "quote": "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714990/image_ch4d4c.png"
+        },
+        {
+            "day": 24,
+            "author": "Rabindranath Tagore",
+            "quote": "You can\u2019t cross the sea merely by standing and staring at the water.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_dvbpzi.png"
+        },
+        {
+            "day": 25,
+            "author": "Naruto Uzumaki",
+            "quote": "Don\u2019t underestimate me! I don\u2019t quit and I don\u2019t run.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675539343/image_2_1.01.24_AM_aqamp2.png"
+        },
+        {
+            "day": 25,
+            "author": "Epictetus",
+            "quote": "It is difficulties that show what men are.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(2).png?alt=media&token=ac3c02f2-2aef-45df-a2d6-9c07ce05afd8"
+        },
+        {
+            "day": 25,
+            "author": "Marcus Aurelius",
+            "quote": "Consider at what price you sell your integrity, but please, for God\u2019s sake, don\u2019t sell it cheap.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_2_doybbv.png"
+        },
+        {
+            "day": 25,
+            "author": "Rabindranath Tagore",
+            "quote": "The one who plants trees, knowing that he will never sit in their shade, has at least started to understand the meaning of life.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_1_qyd3lu.png"
+        },
+        {
+            "day": 25,
+            "author": "Jiddu Krishnamurti",
+            "quote": "I don\u2019t mind what happens. That is the essence of inner freedom. It is a timeless spiritual truth.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fjk2.png?alt=media&token=a5772ad3-f077-4c67-a69e-f75a01e3ae7f"
+        },
+        {
+            "day": 25,
+            "author": "Seneca",
+            "quote": "Cease to hope and you will cease to fear.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(1).png?alt=media&token=d3eb8fd9-6035-4d3c-8ff7-0581d9e9fb29"
+        },
+        {
+            "day": 25,
+            "author": "Seneca",
+            "quote": "He who is brave is free.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca5.png?alt=media&token=dc6db453-9d38-4e60-a98a-1ae282c47737"
+        },
+        {
+            "day": 25,
+            "author": "Musonius Rufus",
+            "quote": "Only by exhibiting actions in harmony with the sound words which he has received will anyone be helped by philosophy.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/mountains_ndmjzv.png"
+        },
+        {
+            "day": 25,
+            "author": "Lao Tzu",
+            "quote": "Great acts are made up of small deeds.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714990/image_1_lifok1.png"
+        },
+        {
+            "day": 26,
+            "author": "Marcus Aurelius",
+            "quote": "I cannot escape death, but at least I can escape the fear of it.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613909/image_3_uqmm5e.png"
+        },
+        {
+            "day": 26,
+            "author": "Epictetus",
+            "quote": "If you want something good, get it yourself.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(2).png?alt=media&token=ac3c02f2-2aef-45df-a2d6-9c07ce05afd8"
+        },
+        {
+            "day": 26,
+            "author": "Rabindranath Tagore",
+            "quote": "The butterfly counts not months but moments and has time enough.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_2_hwb4lk.png"
+        },
+        {
+            "day": 26,
+            "author": "Swami Vivekananda",
+            "quote": "The greatest religion is to be true to your own nature. Have faith in yourselves.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsvv2.png?alt=media&token=cd722019-68d9-47d6-87e0-8338d8a9e165"
+        },
+        {
+            "day": 26,
+            "author": "Seneca",
+            "quote": "It does not matter how many books you have, but how good are the books which you have.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(1).png?alt=media&token=d3eb8fd9-6035-4d3c-8ff7-0581d9e9fb29"
+        },
+        {
+            "day": 26,
+            "author": "Benjamin Franklin",
+            "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fquotes_aot_levi.png?alt=media&token=e767cec6-90f3-404e-8d7f-c7ce579224a5"
+        },
+        {
+            "day": 26,
+            "author": "Epictetus",
+            "quote": "Make the best use of what is in your power, and take the rest as it happens.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(1).png?alt=media&token=4d2a0ce8-e52a-4b29-861d-1cd8622a4bcb"
+        },
+        {
+            "day": 26,
+            "author": "Zeno",
+            "quote": "Steel your sensibilities, so that life shall hurt you as little as possible.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fzeno2.png?alt=media&token=2910619f-2c7c-49d5-bd16-0cf119ed65a5"
+        },
+        {
+            "day": 26,
+            "author": "Musonius Rufus",
+            "quote": "Since every man dies, it is better to die with distinction than to live long.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675799006/cowboy_1_tlz1fv.jpg"
+        },
+        {
+            "day": 27,
+            "author": "Lao Tzu",
+            "quote": "When I let go of what I am, I become what I might be.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714990/image_ch4d4c.png"
+        },
+        {
+            "day": 27,
+            "author": "Rabindranath Tagore",
+            "quote": "The highest education is that which does not merely give us information but makes our life in harmony with all existence.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_dvbpzi.png"
+        },
+        {
+            "day": 27,
+            "author": "Zeno",
+            "quote": "Better to trip with the feet than with the tongue",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fzeno.png?alt=media&token=83eb038b-575c-441a-87de-1e0ab1278736"
+        },
+        {
+            "day": 27,
+            "author": "Plato",
+            "quote": "A good decision is based on knowledge and not numbers.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/wayne_kvsld7.png"
+        },
+        {
+            "day": 27,
+            "author": "Epictetus",
+            "quote": "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage%20(2).png?alt=media&token=ac3c02f2-2aef-45df-a2d6-9c07ce05afd8"
+        },
+        {
+            "day": 27,
+            "author": "Jiddu Krishnamurti",
+            "quote": "It is very easy to conform to what your society or your parents and teachers tell you. That is a safe and easy way of existing; but that is not living\u2026 to live is to find out for yourself the truth.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fjk4.png?alt=media&token=29b53073-872f-48d5-83ce-529bef497351"
+        },
+        {
+            "day": 27,
+            "author": "Seneca",
+            "quote": "What really ruins our character is the fact that none of us looks back over his life.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca.png?alt=media&token=2eefb44e-a3ca-40d2-9a4c-404cefb14887"
+        },
+        {
+            "day": 27,
+            "author": "Seneca",
+            "quote": "Difficulty comes from our lack of confidence.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca5.png?alt=media&token=dc6db453-9d38-4e60-a98a-1ae282c47737"
+        },
+        {
+            "day": 27,
+            "author": "Marcus Aurelius",
+            "quote": "Confine yourself to the present.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613909/image_3_uqmm5e.png"
+        },
+        {
+            "day": 28,
+            "author": "Marcus Aurelius",
+            "quote": "When you arise in the morning, think of what a precious privilege it is to be alive \u2013 to breathe, to think, to enjoy, to love.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613789/image_2_doybbv.png"
+        },
+        {
+            "day": 28,
+            "author": "Rabindranath Tagore",
+            "quote": "I have become my own vision of an optimist. If I can\u2019t make it through one door, I\u2019ll go through another door \u2013 or I\u2019ll make a door. Something terrific will come no matter how dark the present.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675711420/image_2_hwb4lk.png"
+        },
+        {
+            "day": 28,
+            "author": "Epictetus",
+            "quote": "Men are disturbed not by things, but by the view which they take of them.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fimage.png?alt=media&token=d813c6c7-504f-4330-bf41-105cdb0da993"
+        },
+        {
+            "day": 28,
+            "author": "Lao Tzu",
+            "quote": "People in their handling of affairs often fail when they are about to succeed. If one remains as careful at the end as he was at the beginning, there will be no failure.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675714990/image_1_lifok1.png"
+        },
+        {
+            "day": 28,
+            "author": "Seneca",
+            "quote": "Only time can heal what reason cannot.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(3).png?alt=media&token=994b668e-36cc-45b6-be7d-20aaab069b96"
+        },
+        {
+            "day": 28,
+            "author": "Jiddu Krishnamurti",
+            "quote": "So when you are listening to somebody, completely, attentively, then you are listening not only to the words, but also the feeling of what is being conveyed, to the whole of it, not part of it.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fjk2.png?alt=media&token=a5772ad3-f077-4c67-a69e-f75a01e3ae7f"
+        },
+        {
+            "day": 28,
+            "author": "Marcus Aurelius",
+            "quote": "Waste no more time arguing about what a good man should be. Be one.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675613909/image_3_uqmm5e.png"
+        },
+        {
+            "day": 28,
+            "author": "Zeno",
+            "quote": "Extravagance is its own destroyer.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fzeno1.png?alt=media&token=3fdd7388-e9bb-4e79-bd33-d00cc4029978"
+        },
+        {
+            "day": 28,
+            "author": "Swami Vivekananda",
+            "quote": "Experience is the only teacher we have. We may talk and reason all our lives, but we shall never understand a word of truth.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsvv2.png?alt=media&token=cd722019-68d9-47d6-87e0-8338d8a9e165"
+        },
+        {
+            "day": 29,
+            "author": "Seneca",
+            "quote": "Life is long, if you know how to use it.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(3).png?alt=media&token=994b668e-36cc-45b6-be7d-20aaab069b96"
+        },
+        {
+            "day": 29,
+            "author": "Plotinus",
+            "quote": "Knowledge, if it does not determine action, is dead to us.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797995/jobs_qeqfoz.png"
+        },
+        {
+            "day": 29,
+            "author": "Seneca",
+            "quote": "The greatest remedy for anger is delay.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca.png?alt=media&token=2eefb44e-a3ca-40d2-9a4c-404cefb14887"
+        },
+        {
+            "day": 29,
+            "author": "Seneca",
+            "quote": "Religion is regarded by the common people as true, by the wise as false, and by rulers as useful.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca%20(1).png?alt=media&token=d3eb8fd9-6035-4d3c-8ff7-0581d9e9fb29"
+        },
+        {
+            "day": 29,
+            "author": "Swami Vivekananda",
+            "quote": "Take risks in your life. If you win, you may lead; if you lose, you may guide.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fsvv2.png?alt=media&token=cd722019-68d9-47d6-87e0-8338d8a9e165"
+        },
+        {
+            "day": 29,
+            "author": "Jiddu Krishnamurti",
+            "quote": "Only when your hearts are empty of the things of the mind, is their love. Then you will know what it is to love without separation, without distance, without time, without fear.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fjk3.png?alt=media&token=9e247e76-5dc4-4a5d-93b7-f0dd9e1141a4"
+        },
+        {
+            "day": 29,
+            "author": "Plato",
+            "quote": "Apply yourself both now and in the next life. Without effort, you cannot be prosperous. Though the land be good, you cannot have an abundant crop without cultivation.",
+            "image_url": "https://res.cloudinary.com/dhupov40f/image/upload/v1675797371/mountains_ndmjzv.png"
+        },
+        {
+            "day": 29,
+            "author": "Jiddu Krishnamurti",
+            "quote": "Freedom from the desire for an answer is essential to the understanding of the problem.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fjk1.png?alt=media&token=bdeee727-7f89-4f51-91e4-a49142068980"
+        },
+        {
+            "day": 29,
+            "author": "Seneca",
+            "quote": "When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/neep-new.appspot.com/o/quotes_images%2Fseneca.png?alt=media&token=2eefb44e-a3ca-40d2-9a4c-404cefb14887"
+        }
+    ]
+}
