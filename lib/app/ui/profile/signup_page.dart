@@ -314,6 +314,20 @@ class _SignUpState extends State<SignUp> {
                 children: [
                   GestureDetector(
                     onTap: () async {
+
+                      showDialog(
+                            context: context,
+                            barrierDismissible: false,
+                            builder: ((context) {
+                              return WillPopScope(
+                                  onWillPop: () async {
+                                    return false;
+                                  },
+                                  child: const Center(
+                                    child: DataLoader(),
+                                  ));
+                            }));
+
                       var res = await AuthService().signInWithGoogle();
 
                       if (res) {
